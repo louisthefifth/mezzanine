@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+:root {
+    --primary-emerald: #133034;
+    --primary-biscay-bay: #1D484E;
+    --primary-cyanogen: #ABE7E5;
+    --secondary-purple: #6365B8;
+    --secondary-lilac: #8E99E8;
+}
